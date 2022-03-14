@@ -1,0 +1,25 @@
+/*#dot{
+    
+    background-color: rgb(113, 132, 153);
+    border-radius:3px;
+}
+#red{
+    border-radius: 10px;
+    background-color:white;
+}
+
+#sub{
+    margin-left: 500px;
+}
+#head{
+    
+    color: rgb(113, 132, 153);;
+}
+body{
+    background-color: rgb(248, 249, 252);
+    height: 700px;
+    
+}*/
+label{
+    margin-left: 500px;
+}
